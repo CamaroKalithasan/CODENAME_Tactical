@@ -5,7 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/themo/OneDrive/Documents/GitHub/CODENAMETactical/CODENAME_Tactical/CODENAMETactical/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"C:/Users/themo/OneDrive/Documents/GitHub/CODENAMETactical/CODENAME_Tactical/CODENAMETactical/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/themo/OneDrive/Documents/GitHub/CODENAMETactical/CODENAME_Tactical/CODENAMETactical/Content/Maps/BattleGround1.umap",
+				"C:/Users/themo/OneDrive/Documents/GitHub/CODENAMETactical/CODENAME_Tactical/CODENAMETactical/Content/Low_Poly_Viking_World/Maps/Map_01_Night.umap"
 			]
 		}
 	]
