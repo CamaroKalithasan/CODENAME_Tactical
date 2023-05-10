@@ -7,7 +7,9 @@
 			"files": [
 				"C:/Users/themo/OneDrive/Documents/GitHub/CODENAMETactical/CODENAME_Tactical/CODENAMETactical/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/themo/OneDrive/Documents/GitHub/CODENAMETactical/CODENAME_Tactical/CODENAMETactical/Content/Maps/BattleGround1.umap",
-				"C:/Users/themo/OneDrive/Documents/GitHub/CODENAMETactical/CODENAME_Tactical/CODENAMETactical/Content/Low_Poly_Viking_World/Maps/Map_01_Night.umap"
+				"C:/Users/themo/OneDrive/Documents/GitHub/CODENAMETactical/CODENAME_Tactical/CODENAMETactical/Content/Low_Poly_Viking_World/Maps/Map_01_Night.umap",
+				"C:/Users/themo/OneDrive/Documents/GitHub/CODENAMETactical/CODENAME_Tactical/CODENAMETactical/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset",
+				"C:/Users/themo/OneDrive/Documents/GitHub/CODENAMETactical/CODENAME_Tactical/CODENAMETactical/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
 			]
 		}
 	]
